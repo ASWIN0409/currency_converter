@@ -1,10 +1,4 @@
-Currency Converter
-Description
-Briefly describe what your currency converter does and its purpose.
-
-Features
-List the main features of your currency converter, such as:
-
+Features:
 Conversion between multiple currencies
 Real-time exchange rates using an API
 Technologies Used
